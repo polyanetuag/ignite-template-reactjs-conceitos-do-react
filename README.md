@@ -14,7 +14,7 @@ ignite-template-reactjs-conceitos-do-react
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença [MIT](https://opensource.org/license/mit). Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
